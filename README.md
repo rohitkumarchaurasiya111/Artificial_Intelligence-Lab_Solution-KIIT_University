@@ -40,12 +40,6 @@ This repository includes Python code for the following assignments:
 | 8  | Navigation with Multiple Goals |
 | 9  | AI Task Scheduler using A* |
 | 10 | Comparative Study of Search Algorithms |
-| 11 | Local Optimization using Hill Climbing |
-| 12 | Genetic Algorithm for AI Problems |
-| 13 | Water-Jugs Problem using Minimax + Alpha-Beta Pruning |
-| 14 | 4-Queens Problem using Adversarial Search |
-| 15 | Tower of Hanoi Game using Minimax |
-| 16 | 8-Puzzle Solver using A* and GBFS |
 
 ---
 
@@ -67,7 +61,7 @@ This repository is maintained by **Rohit Kumar Chaurasiya**. Contributions, sugg
 
 For queries or academic discussions, feel free to connect:
 
-- 📧 Email: [Your Email or GitHub Profile Link]
+🔗 GitHub: [rohitkumarchaurasiya111](https://github.com/rohitkumarchaurasiya111)  
 
 ---
 
